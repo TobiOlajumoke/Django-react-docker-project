@@ -1,0 +1,4 @@
+Django==3.0
+djangorestframework==3.7.7
+psycopg2-binary
+pytz==2021.3
